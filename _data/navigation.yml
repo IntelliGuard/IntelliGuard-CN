@@ -1,35 +1,35 @@
 # main links links
 main:
   
-  - title: "News"
+  - title: "新闻动态"
     url: /news/  
   
-  - title: "Research"
+  - title: "科研方向"
     url: /research/  
 
   - title: "团队成员"
     url: /members/  
 
-  - title: "Publications"
+  - title: "科研成果"
     url: /publications/
 
-  - title: "Contact"
+  - title: "联系我们"
     url: /contact/  
 
-  - title: "Talks"
-    url: test/    
+  # - title: "Talks"
+    # url: test/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  # - title: "Teaching"
+    # url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  # - title: "Portfolio"
+    # url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  # - title: "Blog Posts"
+    # url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+    # url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+    # url: /markdown/
