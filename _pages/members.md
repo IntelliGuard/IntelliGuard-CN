@@ -1,6 +1,6 @@
 ---
 permalink: /members/
-title: "研究组成员"
+title: "团队成员"
 author_profile: true
 redirect_from: 
   - /members.html
