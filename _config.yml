@@ -10,11 +10,11 @@
 locale                   : "en-US"
 title                    : "智能系统卫士研究组"
 title_separator          : "-"
-name                     : &name "智能系统卫士研究组"
+name                     : &name "能系统卫士研究组"
 description              : &description "personal description"
 url                      : https://IntelliGuard.github.io/IntelliGuard-CN # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "IntelliGuard/IntelliGuard.github.io/IntelliGuard-CN"
+repository               : "IntelliGuard/IntelliGuard-CN"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,21 +22,21 @@ repository               : "IntelliGuard/IntelliGuard.github.io/IntelliGuard-CN"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "智能系统卫士研究组"
+  name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "北京交通大学"
+  employer         : "Red Brick University"
   uri              : # URL
   email            : "none@example.org" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 
   # Repositories and software development
