@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "智能系统卫士研究组"
+title                    : "智能系统安全研究组"
 title_separator          : "-"
-name                     : &name "智能系统卫士研究组"
+name                     : &name "智能系统安全研究组"
 description              : &description "personal description"
 url                      : https://IntelliGuard.github.io/IntelliGuard-CN # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
