@@ -1,10 +1,23 @@
 # main links links
 main:
+  
+  - title: "News"
+    url: /news/  
+  
+  - title: "Research"
+    url: /research/  
+
+  - title: "团队成员"
+    url: /members/  
+
   - title: "Publications"
     url: /publications/
 
+  - title: "Contact"
+    url: /contact/  
+
   - title: "Talks"
-    url: /talks/    
+    url: test/    
 
   - title: "Teaching"
     url: /teaching/    
