@@ -1,16 +1,23 @@
 ---
-layout: archive
-title: "Publications"
+title: "科研成果"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+1. **Yalun Wu**, Yingxiao Xiang, Endong Tong, Yuqi Ye, Zhibo Cui, Yunzhe Tian, Lejun Zhang, Jiqiang Liu, Zhen Han. Wenjia Niu. Improving the Robustness of Pedestrian Detection in Autonomous Driving with Generative Data Augmentation. IEEE Network, 2024 (early access). **(JCR Q1/中科院二区, IF: 9.3)**
+2. **Yalun Wu**, Yanfeng Gu, Yuanwan Chen, Xiaoshu Cui, Qiong Li, Yingxiao Xiang, Endong Tong, Jianhua Li, Zhen Han, Jiqiang Liu. Camouflage Backdoor Attack against Pedestrian Detection. Applied Sciences, 2023, 13(23):12752. **(JCR Q2/中科院四区)**
+3. Xiaoshu Cui, **Yalun Wu**, Yanfeng Gu, Qiong Li, Endong Tong, Jiqiang Liu, Wenjia Niu. Lurking in the Shadows: Imperceptible Shadow Black-Box Attacks against Lane Detection Models. International Conference on Knowledge Science, Engineering and Management (KSEM), 2024. **(KSEM'2024, CCF-C)**
+4. Qiong Li, **Yalun Wu**, Yingqi Cai, Xiaoshu Cui, Yanfeng Gu, Yuanwan Chen, Endong Tong, Jiqiang Liu, Wenjia Niu. Caution: Pedestrian Ahead! Revealing Deceptive Threats to Pedestrian Detectors. IEEE Consumer Electronics Magazine, in press, 2024. **(JCR Q1/中科院四区)**
+5. Ziyan Qiao, Yingxiao Xiang, t.shamsa, Gang Li, **Yalun Wu**, Endong Tong, Shuanghe Peng, Ye Zhu, Dongwei Xu, Wenjia Niu. Reinforcement Learning-based Security Enhancement for Controlled Optimization of Phases in Intelligent Traffic Signal System. IEEE Transactions on Industrial Cyber-Physical Systems, in press, 2024. **(IEEE汇刊)**
+6. Yike Li, Jiayin Song, Yunzhe Tian, Endong Tong, Yuling Liu, Guozhu Meng, **Yalun Wu**, jianhua Li, Wenjia Niu, jiqiang Liu. Towards Preventing Imitation Learning Attack via Policy Confusion Defense. Transactions on Dependable and Secure Computing (TDSC), in press, 2023. **(IEEE汇刊, JCR Q1/中科院二区, CCF-A)**
+7. Pengna Liu, Ziyan Qiao, **Yalun Wu**, Kang Chen, Jiasong Hou, Yingqi Cai, Liqun Chu, Endong Tong, Wenjia Niu, Jiqiang Liu. Traffic Signal Timing Optimization Based on Intersection Importance in Vehicle-Road Collaboration. International Conference on Machine Learning for Cyber Security (ML4CS), 2023.
+8. Yingqi Cai, Pengna Liu, Dongyue Xu, Xuyan Fan, **Yalun Wu**, Kang Chen, Liqun Chu, Qiong Li, Endong Tong, Wenjia Niu, Jiqiang Liu. Backdoor Attack Influence Assessment and Analysis on Multi-Agent Training. 2023 China Automation Congress (CAC). IEEE, 2023: 8885-8890.
+9. Yike Li, Yunzhe Tian, Endong Tong, Wenjia Niu, Yingxiao Xiang, Tong Chen, **Yalun Wu**, Jiqiang Liu. Curricular Robust Reinforcement Learning via GAN-based Perturbation through Continuously Scheduled Task. Tsinghua Science and Technology, 2022, 28(1): 27-38. **(JCR Q1/中科院一区)**
+10. Yike Li, Wenjia Niu, Yunzhe Tian, Tong Chen, Zhiqiang Xie, **Yalun Wu**, Yingxiao Xiang, Endong Tong, Thar Baker and Jiqiang Liu. Multi-Agent Reinforcement Learning-based Signal Planning for Resisting Congestion Attack in Green Transportation. IEEE Transactions on Green Communications and Networking. 6(3):1448-1458. 2022. **(IEEE汇刊, JCR Q2/中科院二区)**
+11. Tong Chen, Jiqiang Liu, Baker Thar, **Yalun Wu**, Yingxiao Xiang, Yike Li, Wenjia Niu, Endong Tong. A Mutual Information-based Assessment of Reverse Engineering on Rewards of Reinforcement Learning. IEEE Transactions on Artificial Intelligence, 2022 (early access). **(IEEE汇刊)**
+12. Shuang Zhao, **Yalun Wu**, Rui Sun, Xiaoai Qian, Dong Zi, Zhiqiang Xie, Endong Tong, Wenjia Niu, Jiqiang Liu, Zhen Han. Blockchain-Based Decentralized Federated Learning: A Secure and Privacy-Preserving System. In IEEE International Conference on High Performance Computing and Communications (HPCC) 2021: 941-948. **(HPCC'2021, CCF-C)**
+13. **Yalun Wu**, Minglu Song, Yike Li, Yunzhe Tian, Endong Tong, Wenjia Niu, Bowei Jia, Haixiang Huang, Qiong Li, Jiqiang Liu. Improving Convolutional Neural Network-Based Webshell Detection Through Reinforcement Learning. International Conference on Information and Communications Security (ICICS) 2021: 368-383. **(ICICS'2021, CCF-C, Acceptance rate: 49/202≈24.25%)**
+14. Yingxiao Xiang, Wenjia Niu, Endong Tong, Yike Li, Bowei Jia, **Yalun Wu**, Jiqiang Liu, Liang Chang, Gang Li. Congestion Attack Detection in Intelligent Traffic Signal System: Combining Empirical and Analytical Methods. Security and Communication Networks, 2021, 2021: 1-17. **(中科院四区, CCF-C)**
+15. Tong Chen, Jiqiang Liu, **Yalun Wu**, Yunzhe Tian, Endong Tong, Wenjia Niu, Yike Li, Yingxiao Xiang, Wei Wang. Survey on Astroturfing Detection and Analysis from an Information Technology Perspective. Security and Communication Networks, 2021, 2021: 1-16. **(中科院四区, CCF-C)**
+16. Yike Li, Yunzhe Tian, Endong Tong, Wenjia Niu, Yingxiao Xiang, Tong Chen, **Yalun Wu** and Jiqiang Liu. Curricular Robust Reinforcement Learning via GAN-based Perturbation through Continuously Scheduled Task. Chinese Conference on Trusted Computing and Information Security (CTCIS), 2021.
+17. Yingxiao Xiang, Tong Chen, Yike Li, Yunzhe Tian, Wenjia Niu, Endong Tong, Jiqiang Liu, Bowei Jia, **Yalun Wu**, Xinyu Huang. Predicting Congestion Attack of Variable Spoofing Frequency for Reliable Traffic Signal System. International Conference on Security and Privacy in New Computing Environments (EAI-SPNCE), 2021.
